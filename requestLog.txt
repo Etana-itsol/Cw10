@@ -1,0 +1,4 @@
+Path: /api/students 
+QueryString: 
+Method: GET 
+Body Parameters: 
